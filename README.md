@@ -1,7 +1,5 @@
-Flym News Reader
+Eudoxos Online Book Distribution
 ==================
-
-##**WARNING: unfortunately I'm facing a important lack of time theses days and I have decided to not maintain this software as much as before. I'll surely improve it from time to time, but I really encourage people who wants more modification to start and maintain a fork**##
 
 Light and modern Android feed reader, based on Sparse rss.
 
